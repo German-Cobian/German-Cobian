@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  Welcome to "My Life in Coding."
 
 <!--
 **German-Cobian/German-Cobian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## German Renato Cobian
-
-<!--<h1 align='center'> Hello 👋 Welcome to my life in coding...</h1> -->
 
 <img width="170" alt="A picture of my home's desktop" src="https://github.com/German-Cobian/German-Cobian/blob/main/screenshot-desktop.jpg">
 
