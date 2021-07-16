@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![home-office](https://user-images.githubusercontent.com/68709712/125974666-e9faecd4-54b3-4d9b-91a1-f4908b0e6279.jpg)
+![rsz_home-office](https://user-images.githubusercontent.com/68709712/125976600-57b575e4-33e0-4efc-aad7-0b712f0b2e2c.jpg)
 
 <h3 align='center'>This is where I code the stuff that dreams are made of.</h3>
 
