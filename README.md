@@ -139,13 +139,15 @@ const webDeveloper = {
 <h3 align="center">FIND ME ON THE WEB</h3>
 <br>
 <p align="center" style="display: inline;">
-      <a href="https://github.com/German-Cobian?tab=followers"><img src="https://img.shields.io/github/followers/German-Cobian?label=Follow%20me&style=social"></a>
-      <a href="https://twitter.com/GermanCobian1"><img src="https://img.shields.io/twitter/follow/German-Cobian?style=social"></a>
-      <a href="https://www.linkedin.com/in/german-cobian/"><img src="https://img.shields.io/badge/LinkedIn-Contact%20Me-blue"></a>
-      <a href="mailto:germancobian@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white"></a>
+  <a href="https://github.com/German-Cobian?tab=followers"><img src="https://img.shields.io/github/followers/German-Cobian?label=Follow%20me&style=social"></a>
+  <a href="https://twitter.com/GermanCobian1"><img src="https://img.shields.io/twitter/follow/German-Cobian?style=social"></a>
+  <a href="https://www.linkedin.com/in/german-cobian/"><img src="https://img.shields.io/badge/LinkedIn-Contact%20Me-blue"></a>
+  <a href="mailto:germancobian@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white"></a>
 </p>
 
- <a href="https://german-cobian.github.io/Portfolio/">Take a look at my portfolio</a>
+<h3 align="center">
+  <a href="https://german-cobian.github.io/Portfolio/">View my portfolio</a>
+</h3>
 
 <br>
 <!--<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>-->
