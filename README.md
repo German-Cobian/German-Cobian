@@ -1,6 +1,6 @@
 <div align="center">
-### Hi there 👋  Welcome to "My Life in Coding."
-
+# Hi there 👋  Welcome to "My Life in Coding."
+<br>
 <!--
 **German-Cobian/German-Cobian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -146,7 +146,8 @@ const webDeveloper = {
   <a href="https://www.linkedin.com/in/german-cobian/"><img src="https://img.shields.io/badge/LinkedIn-Contact%20Me-blue"></a>
   <a href="mailto:germancobian@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white"></a>
 </p>
-
+<br>
+<br>
 <h3 align="center">
   <a href="https://german-cobian.github.io/Portfolio/">View my portfolio</a>
 </h3>
