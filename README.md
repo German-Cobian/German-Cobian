@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![rsz_home-office](https://user-images.githubusercontent.com/68709712/125976600-57b575e4-33e0-4efc-aad7-0b712f0b2e2c.jpg)
+<i align='center>![rsz_home-office](https://user-images.githubusercontent.com/68709712/125976600-57b575e4-33e0-4efc-aad7-0b712f0b2e2c.jpg)</i>
 
 <h3 align='center'>This is where I code the stuff that dreams are made of.</h3>
 
@@ -144,6 +144,8 @@ const webDeveloper = {
       <a href="https://www.linkedin.com/in/german-cobian/"><img src="https://img.shields.io/badge/LinkedIn-Contact%20Me-blue"></a>
       <a href="mailto:germancobian@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white"></a>
 </p>
+
+[Portfolio](https://german-cobian.github.io/Portfolio/)
 
 <br>
 <!--<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>-->
