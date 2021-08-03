@@ -1,5 +1,5 @@
 <div align="center">
-# Hi there 👋  Welcome to "My Life in Coding."
+ <h1>Hi there 👋  Welcome to "My Life in Coding</h1>
 <br>
 <!--
 **German-Cobian/German-Cobian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
