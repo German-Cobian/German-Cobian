@@ -147,11 +147,7 @@ const webDeveloper = {
   <a href="mailto:germancobian@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white"></a>
 </p>
 <br>
-<br>
 <h3 align="center">
   <a href="https://german-cobian.github.io/Portfolio/">View my portfolio</a>
 </h3>
-
-<br>
-<!--<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>-->
 <br>
