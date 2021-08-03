@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<i align='center![rsz_home-office](https://user-images.githubusercontent.com/68709712/125976600-57b575e4-33e0-4efc-aad7-0b712f0b2e2c.jpg)>
+<div align="center">
+  [rsz_home-office](https://user-images.githubusercontent.com/68709712/125976600-57b575e4-33e0-4efc-aad7-0b712f0b2e2c.jpg)
+</div>
 
 <h3 align='center'>This is where I code the stuff that dreams are made of.</h3>
 
@@ -146,7 +148,9 @@ const webDeveloper = {
 </p>
 
 <h3 align="center">TAKE A LOOK AT MY PORTFOLIO<h3>
-<a align="center" href="https://german-cobian.github.io/Portfolio/"></a>
+<p align="center">
+      <a href="https://german-cobian.github.io/Portfolio/"></a>
+</p>
 
 <br>
 <!--<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>-->
