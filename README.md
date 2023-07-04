@@ -6,13 +6,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on sharpenning my skill in Rails
+- 🌱 I’m currently learning how to handle complex database requests in Rails APIs
+- 👯 I’m looking to collaborate on Javascript, React and Ruby on Rails projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: See the links provided at the bottom of this page.
 - ⚡ Fun fact: ...
 -->
 
@@ -28,12 +27,12 @@ Here are some ideas to get you started:
 ```javascript
 const webDeveloper = {
   name:"My name is German Renato Cobian",
-  goal: "I'm a 54 year old coding aficionado with an intention to become a successful full-stack web developer",
+  goal: "I'm a 56 year old coding aficionado with the intention of becoming a successful full-stack web developer",
   lookingFor: ["Full-stack web developer", "Front-end web developer"],
   frontEnd: ["JavaScript", "React", "Redux", "jQuery", "HTML5", "CSS3", "Bootstrap"],
   backEnd:["Ruby", "Rails", "MySQL"],
   loveTo: "Work on innovative and attention-grabbing projects and improving my skills in coding",
-  letsTalkAbout: [["Philosophy", "Economics", "Psychology" ], "Classical Music", "Jazz", "Fine-Art", "Matial-Arts"],
+  letsTalkAbout: [["Philosophy", "Economics", "Psychology" ], "Classical Music", "Jazz", "Fine-Art", "Martial-Arts"],
   experience:"Remote pair-programming with international developers",
   funFact: "When I am not coding you might find me painting trippy images in oils, writing essays or dancing tango",
 }
@@ -47,11 +46,11 @@ const webDeveloper = {
 
 <br>
 <p align="center">
+      <a href="https://github.com/German-Cobian/Journeyman-Front-End">Journeyman</a> -
+      <a href="https://github.com/German-Cobian/Yacht-Booking-Front-End">Yacht-Booking</a> -
+      <a href="https://github.com/German-Cobian/Art-Gallery">Art Gallery</a> -
       <a href="https://github.com/German-Cobian/Philosophy">Philosophy</a> -
-      <a href="https://github.com/German-Cobian/Social-Media">Social-Media</a> -
-      <a href="https://github.com/German-Cobian/Private-Events">Private-Events</a> -
-      <a href="https://github.com/German-Cobian/Members-Only">Members-Only</a> -
-       <a href="https://github.com/German-Cobian/Tic-Tac-Toe">Tic-Tac-Toe</a> -
+      <a href="https://github.com/German-Cobian/Tic-Tac-Toe">Tic-Tac-Toe</a> -
       <a href="https://diegodsha.github.io/Newsweek-Bootstrap/">Newsweek website</a> -
       <a href="https://github.com/German-Cobian/Web-Development-Course">Web-Development-Course</a> -
       <a href="https://github.com/German-Cobian/Newsweek-Page-Clone">Newsweek-Page-Clone</a>  
@@ -59,7 +58,9 @@ const webDeveloper = {
 
 <br>
 
-![German-Cobian's GitHub stats](https://github-readme-stats.vercel.app/api?username=German-Cobian&count_private=true&show_icons=true&theme=dark)<span>   </span>![German-Cobian's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=German-Cobian&theme=dark)
+[![German-Cobian's Github stats](https://github-readme-stats.vercel.app/api?username=German-Cobian&show_icons=true&theme=radical)](https://github.com/German-Cobian/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=German-Cobian&show_icons=true&theme=radical&layout=compact)](https://github.com/German-Cobian/github-readme-stats)
+
+
 <!-- more icons
 <p align="center" style="display: inline;">
       <a href="#"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></a>
