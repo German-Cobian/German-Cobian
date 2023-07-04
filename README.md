@@ -1,5 +1,5 @@
 <div align="center">
- <h1>Hi there 👋  Welcome to "My Life in Coding</h1>
+ <h1>Hi there 👋  Welcome to "My Life in Coding"</h1>
 
 <!--
 **German-Cobian/German-Cobian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -48,14 +48,13 @@ const webDeveloper = {
 <p align="center">
       <a href="https://github.com/German-Cobian/Journeyman-Front-End">Journeyman</a> -
       <a href="https://github.com/German-Cobian/Yacht-Booking-Front-End">Yacht-Booking</a> -
+       <a href="https://github.com/German-Cobian/jobforcash_frontend">Job-For-Cash</a> -
       <a href="https://github.com/German-Cobian/Art-Gallery">Art Gallery</a> -
       <a href="https://github.com/German-Cobian/Philosophy">Philosophy</a> -
+      <a href="https://github.com/German-Cobian/Art-Museum-Api">Art-Museum-Api</a> -
       <a href="https://github.com/German-Cobian/Tic-Tac-Toe">Tic-Tac-Toe</a> -
-      <a href="https://diegodsha.github.io/Newsweek-Bootstrap/">Newsweek website</a> -
-      <a href="https://github.com/German-Cobian/Web-Development-Course">Web-Development-Course</a> -
-      <a href="https://github.com/German-Cobian/Newsweek-Page-Clone">Newsweek-Page-Clone</a>  
+      <a href="https://github.com/German-Cobian/Web-Development-Course">Web-Development-Course</a> - 
 </p>
-
 <br>
 
 [![German-Cobian's Github stats](https://github-readme-stats.vercel.app/api?username=German-Cobian&show_icons=true&theme=radical)](https://github.com/German-Cobian/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=German-Cobian&show_icons=true&theme=radical&layout=compact)](https://github.com/German-Cobian/github-readme-stats)
