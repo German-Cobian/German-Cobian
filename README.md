@@ -48,12 +48,12 @@ const webDeveloper = {
 <p align="center">
       <a href="https://github.com/German-Cobian/Journeyman-Front-End">Journeyman</a> -
       <a href="https://github.com/German-Cobian/Yacht-Booking-Front-End">Yacht-Booking</a> -
-       <a href="https://github.com/German-Cobian/jobforcash_frontend">Job-For-Cash</a> -
+      <a href="https://github.com/German-Cobian/jobforcash_frontend">Job-For-Cash</a> -
+      <a href="https://github.com/German-Cobian/TV-Shows-API">Job-For-Cash</a> -
       <a href="https://github.com/German-Cobian/Art-Gallery">Art Gallery</a> -
       <a href="https://github.com/German-Cobian/Philosophy">Philosophy</a> -
       <a href="https://github.com/German-Cobian/Art-Museum-Api">Art-Museum-Api</a> -
       <a href="https://github.com/German-Cobian/Tic-Tac-Toe">Tic-Tac-Toe</a> -
-      <a href="https://github.com/German-Cobian/Web-Development-Course">Web-Development-Course</a> - 
 </p>
 <br>
 
